@@ -1,7 +1,4 @@
- - manager-jmx    - allows access to the JMX proxy and the status pages
-    - manager-status - allows access to the status pages only
-
-  The users below are wrapped in a comment and are therefore ignored. If you
+ The users below are wrapped in a comment and are therefore ignored. If you
   wish to configure one or more of these users for use with the manager web
   application, do not forget to remove the <!.. ..> that surrounds them. You
   will also need to set the passwords to something appropriate.
